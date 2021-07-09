@@ -12,4 +12,4 @@ Step 3: Using multiple decision control statements analyse given marks and outpu
 Step 4: Stop      
 
 
-"This is a dummy message to check if changes are being committed."
+"This is a dummy trial to check if changes are being committed."
