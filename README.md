@@ -10,3 +10,6 @@ Step 3: Using multiple decision control statements analyse given marks and outpu
       d. If score is less than 75 and above 35, output the grade 'D'
       e. If score is below 35, output the grade 'FAIL'
 Step 4: Stop      
+
+
+"This is a dummy message to check if changes are being committed."
